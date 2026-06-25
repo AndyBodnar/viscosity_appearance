@@ -1,6 +1,6 @@
 # viscosity_appearance
 
-**Viscosity Appearance** — a player customization suite for FiveM (clothing, barber,
+**Viscosity Appearance**, a player customization suite for FiveM (clothing, barber,
 tattoos, surgeon) with a fully rebuilt, animated violet-glass NUI. This is my reworked
 distribution of [illenium-appearance](https://github.com/iSentrie/illenium-appearance),
 with a from-scratch React front-end and Viscosity Gaming Studio branding, wired to
@@ -10,13 +10,13 @@ with a from-scratch React front-end and Viscosity Gaming Studio branding, wired 
 
 ## Features
 
-- **Full customization** — heritage/face, hair & barber, clothing, props, tattoos, and
+- **Full customization**, heritage/face, hair & barber, clothing, props, tattoos, and
   surgeon, all in one flow.
-- **Rebuilt UI** — a from-scratch React NUI with smooth animation and a tokenized violet
+- **Rebuilt UI**, a from-scratch React NUI with smooth animation and a tokenized violet
   theme, not a recolor.
-- **Framework-native** — runs on `viscosity_core` (also supports the common frameworks
+- **Framework-native**, runs on `viscosity_core` (also supports the common frameworks
   via the underlying adapter).
-- **Shops & outfits** — clothing/barber/tattoo shops, saved outfits, and management
+- **Shops & outfits**, clothing/barber/tattoo shops, saved outfits, and management
   hooks.
 
 ---
